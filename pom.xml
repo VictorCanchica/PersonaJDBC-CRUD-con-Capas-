@@ -14,7 +14,7 @@
         <dependency>
             <artifactId>mysql-connector-java</artifactId>
             <groupId>mysql</groupId>
-            <version>8.0.20</version>
+            <version>8.0.28</version>
         </dependency>
         <dependency>
             <artifactId>commons-dbcp2</artifactId>
